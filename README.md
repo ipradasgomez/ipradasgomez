@@ -1,13 +1,13 @@
 <!--
   Preview: Ctrl+Shift+V
-  Iconos alojados en media/icons/ (sin CDNs externos)
+  Icons are self-hosted in media/icons/ (no external CDNs)
 -->
 
-<h1 align="center">Hola, soy Ismael</h1>
+<h1 align="center">Hi, I'm Ismael</h1>
 
 <p align="center">
   <strong>Lead Backend Engineer</strong><br/>
-  <img src="media/icons/flag-es.png" alt="Español" title="Español (nativo)"/>
+  <img src="media/icons/flag-es.png" alt="Spanish" title="Spanish (native)"/>
   &nbsp;
   <img src="media/icons/flag-gb.png" alt="English" title="English (professional working)"/>
 </p>
@@ -21,11 +21,11 @@
   <img src="https://img.shields.io/badge/%20-E85D04?style=flat-square" width="220" height="6" alt=""/>
 </p>
 
-### Sobre mí
+### About me
 
-Llevo **+8 años** en backend, evolucionando a Lead Backend Engineer: diseño de arquitectura, liderazgo de equipos y trabajo cercano con Producto y Diseño, sin abandonar el código. He trabajado en sistemas de alto tráfico (~100M visitas/mes) y en el día a día aplico **DDD**, **SOLID**, arquitectura hexagonal / por capas, eventos de dominio y APIs pensadas para mantenerse.
+I've spent **8+ years** in backend, growing into a hands-on Lead Backend Engineer: architecture design, team leadership, and close work with Product and Design — without leaving the code behind. I've worked on high-traffic systems (~100M visits/month) and day to day I apply **DDD**, **SOLID**, hexagonal / layered architecture, domain events, and APIs built to last.
 
-Con **IA** he podido acercarme a áreas que antes eran más lejanas — DevOps, producto, análisis de datos, tests — y ganar velocidad en el ciclo de un feature. Ahora ando explorando la automatización de flujos con **agentes**, **MCP** e integraciones con modelos: lo uso como acelerador — *engineering-backed vibe coding*: criterio hands-on, conocer el stack y los entresijos, para crecer con solidez.
+With **AI**, I've been able to reach into areas that used to feel farther away — DevOps, product, data analysis, testing — and move faster through a feature cycle. I'm now exploring workflow automation with **agents**, **MCP**, and model integrations: I use them as an accelerator — *engineering-backed vibe coding*: hands-on judgment, knowing the stack and the internals, so growth stays solid.
 
 ---
 
@@ -69,13 +69,13 @@ Con **IA** he podido acercarme a áreas que antes eran más lejanas — DevOps, 
   <img src="media/icons/pest.svg" height="48" alt="Pest" title="Pest"/>
 </p>
 
-Mi día a día es **PHP** (Slim / Laravel), con **Python**/Django y **TypeScript** cuando el proyecto lo pide. En PHP sigo estándares **PSR**, domain events, colas, Horizon, WebSockets, Reverb y SSE. Datos e intercambios en **JSON**. Assets frontend con **Vite** (Laravel). Tests con **PHPUnit**, **Pest** e **Infection**. IDEs: **PhpStorm** y **VS Code**.
+Day to day I work in **PHP** (Slim / Laravel), plus **Python**/Django and **TypeScript** when the project needs it. In PHP I follow **PSR** standards, domain events, queues, Horizon, WebSockets, Reverb, and SSE. Data and payloads in **JSON**. Frontend assets with **Vite** (Laravel). Tests with **PHPUnit**, **Pest**, and **Infection**. IDEs: **PhpStorm** and **VS Code**.
 
-Persistencia y caché: **MySQL**/MariaDB, **PostgreSQL**, Elasticsearch, Redis y **Memcached**. Frontend: **Vue**, **React**, **Next.js** y **Tailwind**. Entrega e infra: **Docker**, Bash, GitHub Actions / **Bitbucket**, Tekton, **GCP**, Pub/Sub, **Nginx** + **PHP-FPM**, Kubernetes y Terraform (el cluster lo gestiona SRE).
+Persistence and caching: **MySQL**/MariaDB, **PostgreSQL**, Elasticsearch, Redis, and **Memcached**. Frontend: **Vue**, **React**, **Next.js**, and **Tailwind**. Delivery and infra: **Docker**, Bash, GitHub Actions / **Bitbucket**, Tekton, **GCP**, Pub/Sub, **Nginx** + **PHP-FPM**, Kubernetes, and Terraform (SRE owns the cluster).
 
 ---
 
-### Integraciones
+### Integrations
 
 <p>
   <img src="media/icons/stripe.svg" height="40" alt="Stripe" title="Stripe"/>
@@ -101,11 +101,11 @@ Persistencia y caché: **MySQL**/MariaDB, **PostgreSQL**, Elasticsearch, Redis y
   <img src="media/icons/oauth.svg" height="48" alt="OAuth" title="OAuth"/>
 </p>
 
-He integrado **Stripe**, **Chargebee**, **PayPal**, **Salesforce**, **Minderest**, **Slack**, **GTM**, **PostHog** y **Atlassian/Jira** — APIs, **OAuth**, auth, webhooks y sincronización.
+I've integrated **Stripe**, **Chargebee**, **PayPal**, **Salesforce**, **Minderest**, **Slack**, **GTM**, **PostHog**, and **Atlassian/Jira** — APIs, **OAuth**, auth, webhooks, and sync.
 
 ---
 
-### Herramientas de IA
+### AI tools
 
 <p>
   <img src="media/icons/claude.svg" height="40" alt="Claude" title="Claude"/>
@@ -117,13 +117,13 @@ He integrado **Stripe**, **Chargebee**, **PayPal**, **Salesforce**, **Minderest*
   <img src="media/icons/gcp.svg" height="48" alt="Vertex AI" title="Vertex AI (GCP)"/>
 </p>
 
-Uso **Claude**, **ChatGPT** y **Cursor** en el día a día; **Vertex AI** en producto (GCP). Automatizo con agentes, **MCP**, APIs / OpenRouter e integraciones con modelos.
+I use **Claude**, **ChatGPT**, and **Cursor** day to day; **Vertex AI** in product (GCP). I automate with agents, **MCP**, APIs / OpenRouter, and model integrations.
 
 ---
 
-### En mi tiempo libre
+### Spare time
 
-Homelab autoalojado: **Docker**, Traefik, **Authelia**, **Keycloak**, **AdGuard Home**, **Home Assistant**, **Tiny Tiny RSS**, WireGuard, **Cloudflare Tunnels**, **OpenRouter** y **Hermes Agent** — despliegues, redes, autenticación, automatización del hogar y agentes.
+Self-hosted homelab: **Docker**, Traefik, **Authelia**, **Keycloak**, **AdGuard Home**, **Home Assistant**, **Tiny Tiny RSS**, WireGuard, **Cloudflare Tunnels**, **OpenRouter**, and **Hermes Agent** — deployments, networking, auth, home automation, and agents.
 
 <p>
   <img src="media/icons/docker.svg" height="48" alt="Docker" title="Docker"/>
