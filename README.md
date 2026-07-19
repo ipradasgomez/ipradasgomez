@@ -98,7 +98,7 @@ He integrado **Stripe**, **Chargebee**, **PayPal**, **Salesforce**, **Minderest*
 <p>
   <img src="https://cdn.simpleicons.org/claude/D97757" height="40" alt="Claude"/>
   &nbsp;
-  <img src="https://cdn.simpleicons.org/cursor/111111" height="40" alt="Cursor"/>
+  <img src="media/icons/cursor.svg" height="48" alt="Cursor"/>
   &nbsp;
   <img src="https://skillicons.dev/icons?i=gcp" alt="Vertex AI"/>
 </p>
