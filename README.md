@@ -31,17 +31,43 @@ Con **IA** he podido acercarme a áreas que antes eran más lejanas — DevOps, 
 ### Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,python,ts,laravel,django,vue,react,nextjs,js,html,css,tailwind,mysql,elasticsearch,redis,docker,gcp,kubernetes,githubactions,git,linux,nginx,terraform&perline=12" alt="Stack"/>
-</p>
-<p>
-  <img src="https://cdn.simpleicons.org/mariadb/C3363A" height="40" alt="MariaDB"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/tekton/E85D04" height="40" alt="Tekton"/>
+  <img src="https://skillicons.dev/icons?i=php" height="48" alt="PHP"/>
+  <img src="https://skillicons.dev/icons?i=python" height="48" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=ts" height="48" alt="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=laravel" height="48" alt="Laravel"/>
+  <img src="https://skillicons.dev/icons?i=django" height="48" alt="Django"/>
+  <img src="https://skillicons.dev/icons?i=vue" height="48" alt="Vue"/>
+  <img src="https://skillicons.dev/icons?i=react" height="48" alt="React"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" height="48" alt="Next.js"/>
+  <img src="https://skillicons.dev/icons?i=vite" height="48" alt="Vite"/>
+  <img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML"/>
+  <img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="48" alt="Tailwind"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="48" alt="MySQL"/>
+  <img src="media/icons/mariadb.svg" height="48" alt="MariaDB"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="48" alt="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=elasticsearch" height="48" alt="Elasticsearch"/>
+  <img src="https://skillicons.dev/icons?i=redis" height="48" alt="Redis"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="48" alt="Docker"/>
+  <img src="https://skillicons.dev/icons?i=gcp" height="48" alt="GCP"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="48" alt="Kubernetes"/>
+  <img src="https://skillicons.dev/icons?i=githubactions" height="48" alt="GitHub Actions"/>
+  <img src="media/icons/tekton.svg" height="48" alt="Tekton"/>
+  <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=linux" height="48" alt="Linux"/>
+  <img src="https://skillicons.dev/icons?i=bash" height="48" alt="Bash"/>
+  <img src="https://skillicons.dev/icons?i=nginx" height="48" alt="Nginx"/>
+  <img src="https://skillicons.dev/icons?i=terraform" height="48" alt="Terraform"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="48" alt="VS Code"/>
+  <img src="https://skillicons.dev/icons?i=phpstorm" height="48" alt="PhpStorm"/>
+  <img src="media/icons/phpunit.svg" height="48" alt="PHPUnit"/>
+  <img src="media/icons/pest.svg" height="48" alt="Pest"/>
 </p>
 
-Mi día a día es **PHP** (Slim / Laravel), con **Python**/Django y **TypeScript** cuando el proyecto lo pide. En PHP sigo estándares **PSR**, domain events, colas, Horizon, WebSockets, Reverb y SSE. Tests con **PHPUnit**, **Pest** e **Infection**.
+Mi día a día es **PHP** (Slim / Laravel), con **Python**/Django y **TypeScript** cuando el proyecto lo pide. En PHP sigo estándares **PSR**, domain events, colas, Horizon, WebSockets, Reverb y SSE. Assets frontend con **Vite** (Laravel). Tests con **PHPUnit**, **Pest** e **Infection**. IDEs: **PhpStorm** y **VS Code**.
 
-Persistencia y caché: **MySQL**/MariaDB, Elasticsearch, Redis y Memcached. Frontend: **Vue**, **React**, **Next.js** y **Tailwind**. Entrega e infra: **Docker**, GitHub Actions, Tekton, **GCP**, Pub/Sub, **Nginx** + **PHP-FPM**, Kubernetes y Terraform (el cluster lo gestiona SRE).
+Persistencia y caché: **MySQL**/MariaDB, **PostgreSQL**, Elasticsearch, Redis y Memcached. Frontend: **Vue**, **React**, **Next.js** y **Tailwind**. Entrega e infra: **Docker**, Bash, GitHub Actions, Tekton, **GCP**, Pub/Sub, **Nginx** + **PHP-FPM**, Kubernetes y Terraform (el cluster lo gestiona SRE).
 
 ---
 
@@ -57,9 +83,11 @@ Persistencia y caché: **MySQL**/MariaDB, Elasticsearch, Redis y Memcached. Fron
   <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="Jira"/>
   &nbsp;
   <img src="https://cdn.simpleicons.org/atlassian/0052CC" height="40" alt="Atlassian"/>
+  &nbsp;
+  <img src="media/icons/oauth.svg" height="48" alt="OAuth"/>
 </p>
 
-He integrado **Stripe**, **Chargebee**, **PayPal**, **Salesforce**, **Minderest** y **Atlassian/Jira** — APIs, auth, webhooks y sincronización.
+He integrado **Stripe**, **Chargebee**, **PayPal**, **Salesforce**, **Minderest** y **Atlassian/Jira** — APIs, **OAuth**, auth, webhooks y sincronización.
 
 ---
 
