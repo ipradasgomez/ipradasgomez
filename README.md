@@ -5,7 +5,7 @@
 <h1 align="center">Hola, soy Ismael</h1>
 
 <p align="center">
-  <strong>Software Architect · Tech Lead · Full Stack</strong><br/>
+  <strong>Lead Backend Engineer</strong><br/>
   <img src="https://flagcdn.com/24x18/es.png" alt="Español" title="Español (nativo)"/>
   &nbsp;
   <img src="https://flagcdn.com/24x18/gb.png" alt="English" title="English (professional working)"/>
@@ -22,7 +22,7 @@
 
 ### Sobre mí
 
-Llevo **+8 años** en backend, evolucionando a Software Architect / Tech Lead hands-on: diseño de arquitectura, liderazgo de equipos y trabajo cercano con Producto y Diseño, sin abandonar el código. He trabajado en sistemas de alto tráfico (~100M visitas/mes) y en el día a día aplico **DDD**, **SOLID**, arquitectura hexagonal / por capas, eventos de dominio y APIs pensadas para mantenerse.
+Llevo **+8 años** en backend, evolucionando a Lead Backend Engineer: diseño de arquitectura, liderazgo de equipos y trabajo cercano con Producto y Diseño, sin abandonar el código. He trabajado en sistemas de alto tráfico (~100M visitas/mes) y en el día a día aplico **DDD**, **SOLID**, arquitectura hexagonal / por capas, eventos de dominio y APIs pensadas para mantenerse.
 
 Con **IA** he podido acercarme a áreas que antes eran más lejanas — DevOps, producto, análisis de datos, tests — y ganar velocidad en el ciclo de un feature. Ahora ando explorando la automatización de flujos con **agentes**, **MCP** e integraciones con modelos: lo uso como acelerador — *engineering-backed vibe coding*: criterio hands-on, conocer el stack y los entresijos, para crecer con solidez.
 
@@ -83,6 +83,8 @@ Persistencia y caché: **MySQL**/MariaDB, **PostgreSQL**, Elasticsearch, Redis y
   <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="Jira"/>
   &nbsp;
   <img src="https://cdn.simpleicons.org/atlassian/0052CC" height="40" alt="Atlassian"/>
+  &nbsp;
+  <img src="media/icons/minderest.svg" height="48" alt="Minderest"/>
   &nbsp;
   <img src="media/icons/oauth.svg" height="48" alt="OAuth"/>
 </p>
